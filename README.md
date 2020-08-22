@@ -1,3 +1,6 @@
+A movie app where user can search for a movie and get the Title, Description, image ,Rating and the Release Date
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
